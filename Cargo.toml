@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Transport layer for inter-shell communication — message passing via files, stdio, and memory"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-shell-transport"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
